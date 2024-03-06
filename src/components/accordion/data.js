@@ -1,24 +1,24 @@
 const data = [
   {
     id: 1,
-    question: "what are accordion components?",
-    answer:
-      "An accordion is a musical instrument in the shape of a fairly large box which you hold in your hands.",
+    question: "What is the word of the day?",
+    answer: "Luminary - and is pronounced: LOO-muh-nair-ee",
   },
   {
     id: 2,
-    question: "what are they used for?",
-    answer: "it is used for FAQs",
+    question: "what does it mean?",
+    answer:
+      "A luminary is a person of prominence or brilliant achievement. The word luminary may also refer to a celestial body, such as the sun or moon.",
   },
   {
     id: 3,
-    question: "accordion is a musical instrument?",
-    answer: "answer 3",
+    question: "Know a synonym? complete the word",
+    answer: "H_avy_ei_ht",
   },
   {
     id: 4,
-    question: "can i create an accordion component with a different framework",
-    answer: "Content 3",
+    question: "How you can use the it?",
+    answer: "The lunch was attended by 38 luminaries from various walks.",
   },
 ];
 
